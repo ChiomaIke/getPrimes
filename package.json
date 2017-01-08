@@ -1,0 +1,28 @@
+{
+  "name": "prime",
+  "version": "1.0.0",
+  "description": "generate prime numbers",
+  "main": "..app/library.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiomaIke/getPrimes.git"
+  },
+  "keywords": [
+    "prime"
+  ],
+  "author": "Chioma Ike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChiomaIke/getPrimes/issues"
+  },
+  "homepage": "https://github.com/ChiomaIke/getPrimes#readme",
+  "dependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
