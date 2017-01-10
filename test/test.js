@@ -5,7 +5,7 @@
 	
 	var myApp = require('../app/library.js');
 	
-  describe("Get Primes tests ", function() {
+ describe("Get Primes tests ", function() {
   describe("Case for some falsy values", function() {
 
     it("should return 'Invalid input received' for input less than 0", function() {
